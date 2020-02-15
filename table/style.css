@@ -1,0 +1,30 @@
+/* Add your CSS Below */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 15px;
+    
+}
+th {
+    text-align: center;
+    background-color: green;
+    color: white;
+    
+}
+td, th {
+    text-align: right;
+
+}
+td th :nth-of-type(2) {
+    text-align: left;
+}
+
+
+th {
+    padding: 8px;
+    border-bottom: 1px solid black;  
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

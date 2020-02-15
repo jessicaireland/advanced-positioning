@@ -1,0 +1,27 @@
+/* Add your CSS Below */
+
+.child1 {
+    position: relative;
+    left: 10px;
+    bottom: 15px;
+}
+.two {
+    position: relative;
+}
+.child2 {
+    position: absolute;
+    left: 100px;
+    bottom: 100px;
+ }
+
+.three {
+    position: relative;
+}
+    
+ 
+.child3 {  
+    position: absolute;
+    top: 0px;
+    right: 0px;   
+}
+
